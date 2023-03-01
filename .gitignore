@@ -3,3 +3,8 @@
 *.py
 
 [aeiou]*.java
+
+!file4.net
+
+!file5.py
+
